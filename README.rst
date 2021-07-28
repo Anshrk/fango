@@ -1,4 +1,5 @@
-===============================
-A project made to replicate the Django's functionalities in FastAPI
-===============================
-* Hello world
+=====
+Fango
+=====
+
+A customized FastAPI library. With mongodb support.
